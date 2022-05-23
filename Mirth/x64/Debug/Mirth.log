@@ -1,0 +1,9 @@
+﻿  play_room.cpp
+C:\Users\ymail\WorkSpaces\codingstudy\cpp\Mirth\Mirth\play_room.cpp(55,38): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ymail\WorkSpaces\codingstudy\cpp\Mirth\Mirth\play_room.cpp(84,27): warning C4244: '=': '_Rep'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ymail\WorkSpaces\codingstudy\cpp\Mirth\Mirth\play_room.cpp(510,88): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mirth.vcxproj -> C:\Users\ymail\WorkSpaces\codingstudy\cpp\Mirth\x64\Debug\Mirth.exe
