@@ -11,6 +11,7 @@
     
 #### ⏰ 개발 기간
 
+
 #### ✏️ 개발 언어
     C++
     
@@ -19,6 +20,6 @@
         
 
 #### 🖼️ 미디어
-    <img src="https://github.com/wndudwkd003/Cpp_Console_Rythm_Game/blob/main/%EB%A9%94%EC%9D%B8.JPG"></img>   
-    <img src="https://github.com/wndudwkd003/Cpp_Console_Rythm_Game/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4.JPG"></img>   
-    https://www.youtube.com/embed/GZHb-o9NwnE
+<img src="https://github.com/wndudwkd003/Cpp_Console_Rythm_Game/blob/main/%EB%A9%94%EC%9D%B8.JPG"></img>   
+<img src="https://github.com/wndudwkd003/Cpp_Console_Rythm_Game/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4.JPG"></img>   
+https://www.youtube.com/embed/GZHb-o9NwnE
